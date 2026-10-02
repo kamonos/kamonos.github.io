@@ -1,1 +1,29 @@
+body {
+  background: #111;
+  color: #eee;
+  font-family: sans-serif;
+  line-height: 1.8;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 24px;
+}
 
+h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid #7fc8ff;
+  padding-bottom: 8px;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  color: #7fc8ff;
+}
+
+a {
+  color: #7fc8ff;
+}
+
+a:hover {
+  color: #fff;
+}
